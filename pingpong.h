@@ -11,7 +11,7 @@ public:
 private:
   int button1Pin;
   int button2Pin;
-  int ledPins[5];  // Assuming 5 LEDs
+  int ledPins[5]; // 5 LEDS
   int player1Score;
   int player2Score;
   int highscoreThreshold;
