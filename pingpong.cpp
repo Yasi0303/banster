@@ -14,7 +14,7 @@ PingPongGame::PingPongGame() {
 }
 
 void PingPongGame::setup() {
-  // Setup pins and LCD
+  // pin og LCD
 }
 
 void PingPongGame::loop() {
