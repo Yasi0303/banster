@@ -1,1 +1,0 @@
-eksamensprojeckt af Yasirali 
